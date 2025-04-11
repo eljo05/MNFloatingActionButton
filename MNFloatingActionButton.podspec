@@ -10,8 +10,6 @@ Pod::Spec.new do |s|
   # s.framework  = 'QuartzCore'
   s.requires_arc = true
   s.source_files = 'MNFloatingActionButton/Classes/*.{h,m}'
-  s.resources_bundles = {
-    'MNFloatingActionButton' => ['MNFloatingActionButton/Assets/*.png']
-  }
+  s.resources = 'MNFloatingActionButton/Assets/*.png'
  end
  
