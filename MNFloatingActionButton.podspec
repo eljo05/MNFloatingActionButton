@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MNFloatingActionButton"
-  s.version      = "3.1.0"
+  s.version      = "0.1.5"
   s.summary      = "A Material Design floating action button implementation for iOS."
   s.homepage     = "https://github.com/eljo05/MNFloatingActionButton"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
